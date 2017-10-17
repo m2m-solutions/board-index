@@ -1,0 +1,46 @@
+{
+    "packages":
+    [
+        {
+            "name": "purplepoint",
+            "maintainer": "M2M Solutions AB",
+            "websiteurl": "http://purplepoint.se/",
+            "email": "info@m2msolutions.se",
+            "platforms": 
+            [
+                {
+                    "name": "Purplepoint AVR boards",
+                    "architecture": "avr",
+                    "version": "1.0.0",
+                    "category": "Contributed",
+                    "help": {
+                        "online": "http://purplepoint.se"
+                    },
+                    "url": "https://github.com/m2m-solutions/purplepoint-board-index.zip",
+                    "archiveFileName": "purplepoint-board-index-zip",
+                    "checksum": "SHA-256:f0d26004c548288302a4f1b90dfc195d00841001d47e40dab76bee0024502829",
+                    "size": 2670,
+                    "boards": [
+                        {
+                            "name": "Purplepoint Joule"
+                        }
+                    ]
+                }                
+            ],
+            "toolsDependencies": [
+                {
+                    "packager": "arduino",
+                    "version": "4.8.1-arduino5",
+                    "name": "avr-gcc"
+                },
+                {
+                    "packager": "arduino",
+                    "version": "6.0.1-arduino5",
+                    "name": "avrdude"
+                }
+                ],            
+            "tools":[
+            ]
+        }
+    ]
+}
