@@ -16,7 +16,7 @@
                     "help": {
                         "online": "http://purplepoint.se"
                     },
-                    "url": "https://github.com/m2m-solutions/purplepoint-board-index.zip",
+                    "url": "https://github.com/m2m-solutions/board-index/raw/master/purplepoint-board-index.zip",
                     "archiveFileName": "purplepoint-board-index-zip",
                     "checksum": "SHA-256:f0d26004c548288302a4f1b90dfc195d00841001d47e40dab76bee0024502829",
                     "size": 2670,
