@@ -11,19 +11,22 @@
                 {
                     "name": "Purplepoint AVR boards",
                     "architecture": "avr",
-                    "version": "1.0.2",
+                    "version": "1.0.3",
                     "category": "Contributed",
                     "help": {
                         "online": "http://purplepoint.se"
                     },
                     "url": "https://github.com/m2m-solutions/board-index/raw/master/purplepoint-board-index.tar.gz",
                     "archiveFileName": "purplepoint-board-index.tar.gz",
-                    "checksum": "SHA-256:b65a6a50aa451917029defc0b958b0cf499968107994f72d61768ffafd3cc343",
+                    "checksum": "SHA-256:865f4f43fea0616253746bcf7d1cec045240fd5a1b3f05893e7b75af4ba6100a",
                     "size": 2670,
                     "boards": [
                         {
                             "name": "Purplepoint Joule"
-                        }
+                        },
+                        {
+                            "name": "Purplepoint Joule (rev F)"
+                        }                        
                     ]
                 }                
             ],
