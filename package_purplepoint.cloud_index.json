@@ -11,14 +11,14 @@
                 {
                     "name": "Purplepoint AVR boards",
                     "architecture": "avr",
-                    "version": "1.0.3",
+                    "version": "1.0.4",
                     "category": "Contributed",
                     "help": {
                         "online": "http://purplepoint.se"
                     },
                     "url": "https://github.com/m2m-solutions/board-index/raw/master/purplepoint-board-index.tar.gz",
                     "archiveFileName": "purplepoint-board-index.tar.gz",
-                    "checksum": "SHA-256:9a3a3cf2c8e7e7fdc60696541f7c224fed8e3c6946f443b6242e9432cb68ddbb",
+                    "checksum": "SHA-256:95119db445dc66b8d0eda11a1e7fbe10fc70f70c21adbaae81dfaf9ab450b909",
                     "size": 2670,
                     "boards": [
                         {
