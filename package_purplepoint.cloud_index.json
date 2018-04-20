@@ -31,6 +31,24 @@
                             "name": "Purplepoint dev board"
                         }
                     ]
+                },
+                {
+                    "name": "Purplepoint AVR boards",
+                    "architecture": "avr",
+                    "version": "1.0.8",
+                    "category": "Contributed",
+                    "help": {
+                        "online": "http://purplepoint.se"
+                    },
+                    "url": "https://github.com/m2m-solutions/board-index/raw/master/purplepoint-avr-1.0.8.tar.gz",
+                    "archiveFileName": "purplepoint-board-index.tar.gz",
+                    "checksum": "521470f10e8e243881f335cc1f978832748baafb5af1f779cf2947bb07ff8b9a",
+                    "size": 2670,
+                    "boards": [
+                        {
+                            "name": "Purplepoint Joule"
+                        }
+                    ]
                 }                
             ],
             "toolsDependencies": [
