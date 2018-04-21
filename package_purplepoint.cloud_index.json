@@ -19,7 +19,7 @@
                     "url": "https://github.com/m2m-solutions/board-index/raw/master/purplepoint-board-index.tar.gz",
                     "archiveFileName": "purplepoint-board-index.tar.gz",
                     "checksum": "SHA-256:9e69f00bf5a006fe1a6a8ffd25bb37d45b5034ccce3ec877f4013660bd0b0f71",
-                    "size": 2670,
+                    "size": 36915,
                     "boards": [
                         {
                             "name": "Purplepoint Joule"
@@ -41,15 +41,37 @@
                         "online": "http://purplepoint.se"
                     },
                     "url": "https://github.com/m2m-solutions/board-index/raw/master/purplepoint-avr-1.0.8.tar.gz",
-                    "archiveFileName": "purplepoint-board-index.tar.gz",
+                    "archiveFileName": "purplepoint-avr-1.0.8.tar.gz",
                     "checksum": "SHA-256:521470f10e8e243881f335cc1f978832748baafb5af1f779cf2947bb07ff8b9a",
-                    "size": 2670,
+                    "size": 36116,
                     "boards": [
                         {
                             "name": "Purplepoint Joule"
                         }
+                    ],
+                    "toolsDependencies": []
+                },
+                {
+                    "name": "Purplepoint SAMD boards (dependency: Arduino SAMD Boards 1.6.11)",
+                    "architecture": "samd",
+                    "version": "1.0.0",
+                    "category": "Contributed",
+                    "help": {
+                        "online": "http://purplepoint.se"
+                    },
+                    "url": "https://github.com/m2m-solutions/board-index/raw/master/purplepoint-samd-1.0.0.tar.gz",
+                    "archiveFileName": "purplepoint-samd-1.0.0.tar.gz",
+                    "checksum": "SHA-256:e46da9474b75db5ece5e479e780d9cebd45b350e17f869e8354592d0fbcebdb2",
+                    "size": 2670,
+                    "boards": [
+                        {
+                            "name": "Purplepoint Volt"
+                        },
+                        {
+                            "name": "Purplepoint Hertz"
+                        }                        
                     ]
-                }                
+                }                               
             ],
             "toolsDependencies": [
                 {
