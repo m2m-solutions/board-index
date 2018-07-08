@@ -71,7 +71,7 @@
                             "name": "Purplepoint Hertz"
                         }                        
                     ]
-                },                              
+                },
                 {
                     "name": "Purplepoint SAMD boards (dependency: Arduino SAMD Boards)",
                     "architecture": "samd",
@@ -82,8 +82,29 @@
                     },
                     "url": "https://github.com/m2m-solutions/board-index/raw/master/purplepoint-samd-1.0.1.tar.gz",
                     "archiveFileName": "purplepoint-samd-1.0.1.tar.gz",
-                    "checksum": "SHA-256:dd44b3451d5030f5798e758ea5fd57e880c0eaa87f8f5873c321d881ff568d62",
-                    "size": 1514681,
+                    "checksum": "SHA-256:36b7c2b61ecb5d28680e9bfff2a3b47ead426224c51ef87ca46216ef5021085b",
+                    "size": 1513787,
+                    "boards": [
+                        {
+                            "name": "Purplepoint Volt"
+                        },
+                        {
+                            "name": "Purplepoint Hertz"
+                        }                        
+                    ]
+                },
+                {
+                    "name": "Purplepoint SAMD boards (dependency: Arduino SAMD Boards)",
+                    "architecture": "samd",
+                    "version": "1.0.2",
+                    "category": "Contributed",
+                    "help": {
+                        "online": "http://purplepoint.se"
+                    },
+                    "url": "https://github.com/m2m-solutions/board-index/raw/master/purplepoint-samd-1.0.2.tar.gz",
+                    "archiveFileName": "purplepoint-samd-1.0.2.tar.gz",
+                    "checksum": "SHA-256:eb39f7fff067cd366cd8c839c33b62ea8e575762868e1a3e62f5a8af18aaf590",
+                    "size": 1477309,
                     "boards": [
                         {
                             "name": "Purplepoint Volt"
@@ -93,6 +114,7 @@
                         }                        
                     ]
                 }                               
+
             ],
             "toolsDependencies": [
                 {
