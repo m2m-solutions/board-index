@@ -124,8 +124,8 @@
                     },
                     "url": "https://github.com/m2m-solutions/board-index/raw/master/purplepoint-samd-1.0.3.tar.gz",
                     "archiveFileName": "purplepoint-samd-1.0.3.tar.gz",
-                    "checksum": "SHA-256:beeac1260345f2eae04517b58574f2f7aaf964b427240adbdb2b88f3792a6e81",
-                    "size": 1476539,
+                    "checksum": "SHA-256:e6714ad13b0ebdf08d26f179066bdb3a4080228b9a0841da096c459044849cc3a",
+                    "size": 1477072,
                     "boards": [
                         {
                             "name": "Purplepoint Volt"
@@ -134,7 +134,28 @@
                             "name": "Purplepoint Hertz"
                         }                        
                     ]
-                }                               
+                },
+                {
+                    "name": "Purplepoint SAMD boards (dependency: Arduino SAMD Boards)",
+                    "architecture": "samd",
+                    "version": "1.0.4",
+                    "category": "Contributed",
+                    "help": {
+                        "online": "http://purplepoint.se"
+                    },
+                    "url": "https://github.com/m2m-solutions/board-index/raw/master/purplepoint-samd-1.0.4.tar.gz",
+                    "archiveFileName": "purplepoint-samd-1.0.4.tar.gz",
+                    "checksum": "SHA-256:9bb4763a2c1eda8903facf1cb35a1b0dba9292a70a02f1caf081b2d86a9477a3",
+                    "size": 1476778,
+                    "boards": [
+                        {
+                            "name": "Purplepoint Volt"
+                        },
+                        {
+                            "name": "Purplepoint Hertz"
+                        }                        
+                    ]
+                }                                             
             ],
             "toolsDependencies": [
                 {
