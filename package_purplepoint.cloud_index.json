@@ -197,6 +197,33 @@
                             "name": "Purplepoint Hertz"
                         }                        
                     ]
+                },
+                {
+                    "name": "Purplepoint SAMD boards (dependency: Arduino SAMD Boards)",
+                    "architecture": "samd",
+                    "version": "1.0.7",
+                    "category": "Contributed",
+                    "help": {
+                        "online": "http://purplepoint.se"
+                    },
+                    "url": "https://github.com/m2m-solutions/board-index/raw/master/purplepoint-samd-1.0.7.tar.gz",
+                    "archiveFileName": "purplepoint-samd-1.0.7.tar.gz",
+                    "checksum": "SHA-256:3b633757ffb4c1850bbd27bafa7ec546823ae1c8fab578b7ea735ddd9e1471f6",
+                    "size": 1525466,
+                    "boards": [
+                        {
+                            "name": "Purplepoint Volt"
+                        },
+                        {
+                            "name": "Purplepoint Hertz"
+                        },                       
+                        {
+                            "name": "Purplepoint Volt UF2"
+                        },
+                        {
+                            "name": "Purplepoint Hertz UF2"
+                        }                        
+                    ]
                 } 
 
             ],
