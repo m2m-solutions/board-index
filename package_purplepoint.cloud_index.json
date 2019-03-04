@@ -208,8 +208,8 @@
                     },
                     "url": "https://github.com/m2m-solutions/board-index/raw/master/purplepoint-samd-1.0.7.tar.gz",
                     "archiveFileName": "purplepoint-samd-1.0.7.tar.gz",
-                    "checksum": "SHA-256:72c10f6e110844d3258bb19797327224ddeb740a23bee49bbc94eb8896e8e4bc",
-                    "size": 1523894,
+                    "checksum": "SHA-256:03021715e2399581c57100ccc748fc533a17bc6091bd8ad2d321e3b744d4e297",
+                    "size": 1523707,
                     "boards": [
                         {
                             "name": "Purplepoint Volt"
