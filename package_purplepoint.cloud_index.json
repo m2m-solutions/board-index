@@ -83,8 +83,8 @@
                     },
                     "url": "https://github.com/m2m-solutions/board-index/raw/master/purplepoint-avr-1.0.10.tar.gz",
                     "archiveFileName": "purplepoint-avr-1.0.10.tar.gz",
-                    "checksum": "SHA-256:27538277533a9ea9ccd7a4d7ecf9287155968f3ccad271b2e0cffbf66aa3893b",
-                    "size": 40229,
+                    "checksum": "SHA-256:125aa1d008c550f3cdc6ba29a5b36b7212ba9e8dcc40ee2416a629db3eb2e351",
+                    "size": 40222,
                     "boards": [
                         {
                             "name": "Purplepoint Joule"
