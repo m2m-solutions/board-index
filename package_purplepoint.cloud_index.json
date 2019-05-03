@@ -76,7 +76,7 @@
                 {
                     "name": "Purplepoint AVR boards",
                     "architecture": "avr",
-                    "version": "1.0.9",
+                    "version": "1.0.10",
                     "category": "Contributed",
                     "help": {
                         "online": "http://purplepoint.se"
