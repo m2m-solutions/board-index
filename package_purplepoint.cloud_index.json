@@ -152,6 +152,34 @@
                     "toolsDependencies": []
                 },                
                 {
+                    "name": "Purplepoint AVR boards",
+                    "architecture": "avr",
+                    "version": "1.0.13",
+                    "category": "Contributed",
+                    "help": {
+                        "online": "http://purplepoint.se"
+                    },
+                    "url": "https://github.com/m2m-solutions/board-index/raw/master/purplepoint-avr-1.0.13.tar.gz",
+                    "archiveFileName": "purplepoint-avr-1.0.13.tar.gz",
+                    "checksum": "SHA-256:9fd12a8371e4afb040dc511fdd6269af2826f47b48e389a69bcefdaf25f966f2",
+                    "size": 42128,
+                    "boards": [
+                        {
+                            "name": "Purplepoint Joule"
+                        },
+                        {
+                            "name": "Purplepoint Joule RFM95"
+                        },
+                        {
+                            "name": "Purplepoint Joule ST"
+                        },
+                        {
+                            "name": "Purplepoint Joule DS"
+                        }
+                    ],
+                    "toolsDependencies": []
+                },                
+                {
                     "name": "Purplepoint SAMD boards (dependency: Arduino SAMD Boards)",
                     "architecture": "samd",
                     "version": "1.0.0",
